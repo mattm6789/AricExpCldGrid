@@ -4,6 +4,12 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>    <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyAsset</members>
+        <name>ContentAsset</name>
     </types>
+    <version>62.0</version>
+</Package>
 <version>62.0</version>
 </Package>
